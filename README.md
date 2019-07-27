@@ -17,5 +17,5 @@ TSP Problem <br>
 ### WPA
 使用WPA（狼群算法）解复杂函数最优解。<br>
 使用GWO中函数进行了测试，结果在准确性和实时性上要逊于GWO，详细过程可见：<br>
-[狼群算法]（https://blog.csdn.net/weixin_37978667/article/details/83516671）<br>
+[狼群算法](https://blog.csdn.net/weixin_37978667/article/details/83516671)<br>
 在代码量和过程的复杂度上都要比GWO高，实现过程较复杂，随机性较大，但狼的数量和迭代次数会影响计算的结果，数量越多，迭代次数越高，结果越接近最优解。
